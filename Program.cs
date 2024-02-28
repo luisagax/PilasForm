@@ -16,7 +16,7 @@ namespace Pilas
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmPilas());
+            Application.Run(new Formularios.frmPeliculas());
         }
     }
 }
